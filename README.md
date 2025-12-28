@@ -13,3 +13,4 @@ Currently learning, building, and improving every day 🚀
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=suffun&theme=tokyonight&no-frame=true&column=7" />
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight)
