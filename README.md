@@ -25,12 +25,16 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 Activity & Consistency
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
 </p>
----
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suffun&theme=tokyonight" width="100%" alt="Detailed Stats" />
+</p>
+
+---
 
 ### 📱 Connect with Me
 <p align="center">
