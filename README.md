@@ -25,16 +25,10 @@
 
 ---
 
-### 📊 Performance Dashboard
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="100%" alt="Languages" />
-</p>
-
 ---
 
 
