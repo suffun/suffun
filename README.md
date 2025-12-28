@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently building my **[Internship Management System](https://github.com/suffun/Internship)**.
+- 🔭 I’m currently building projects.
 - 💻 I love turning ideas into functional code using **React, Node.js, and Express**.
 - 🛠️ Currently focused on **Full-Stack Development** and improving my project-building skills.
 - 💬 Ask me about **Frontend UI, Backend logic, or my latest projects**.
