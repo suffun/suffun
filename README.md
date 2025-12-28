@@ -26,23 +26,14 @@
 ---
 
 ### 📊 Performance Dashboard
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Stats Card" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
-      </td>
-    </tr>
-    <tr>
-       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="70%" alt="Languages Card" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="100%" alt="Languages" />
+</p>
 
 ---
 
