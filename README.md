@@ -25,14 +25,19 @@
 
 ---
 
-### 🔥 Activity & Consistency
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suffun&theme=tokyonight" width="100%" alt="Detailed Stats" />
-</p>
+### 📈 Activity Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Stats Card" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
