@@ -26,16 +26,24 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suffun&theme=tokyonight" width="100%" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suffun&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suffun&theme=tokyonight" width="48%" />
-</p>
-
+### 📊 Performance Dashboard
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+    <tr>
+       <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="70%" />
+      </td>
+    </tr>
+  </table>
+</div>
 ### 📱 Connect with Me
 <p align="center">
 <a href="https://twitter.com/Sufiyan_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sufiyan_Dev" height="30" width="40" /></a>
