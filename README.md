@@ -1,14 +1,14 @@
 <div align="center">
   <h1>👋 Hi, I'm Sufiyan Khan</h1>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Digital+Solutions;MERN+Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently building my **[Internship Management System](https://github.com/suffun/Internship)**.
+- 🔭 I’m currently building my 
 - 💻 I love turning ideas into functional code using **React, Node.js, and Express**.
 - 🛠️ Currently focused on **Full-Stack Development** and improving my project-building skills.
 - 💬 Ask me about **Frontend UI, Backend logic, or my latest projects**.
