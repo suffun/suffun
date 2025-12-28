@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi, I’m Sufiyan
+
+**Full-Stack Developer**  
+Currently learning, building, and improving every day 🚀
 
 <!--
 **suffun/suffun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
