@@ -9,3 +9,7 @@ Currently learning, building, and improving every day 🚀
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,postgres,git,postman,vercel" />
 </a>
 </p>
+### 🏆 GitHub Trophies
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=suffun&theme=tokyonight&no-frame=true&column=7" />
+</p>
