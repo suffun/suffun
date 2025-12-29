@@ -79,8 +79,17 @@ Backend-focused project for managing interns, projects, and evaluations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&hide_title=true&hide_border=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&hide_border=true&theme=dark" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="130"
+  />
 </p>
 
 ---
