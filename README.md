@@ -30,18 +30,10 @@
 
 ---
 
-### 📱 Connect With Me
 
 ### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/Sufiyan_Dev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:sufiyanmain1@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://twitter.com/Sufiyan_Dev" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>&nbsp;&nbsp;<a href="mailto:sufiyanmain1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
 
