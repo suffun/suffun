@@ -34,6 +34,11 @@
 ### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/Sufiyan_Dev" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>&nbsp;&nbsp;<a href="mailto:sufiyanmain1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://twitter.com/Sufiyan_Dev" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sufiyanmain1@gmail.com">
+    <img src="https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-
