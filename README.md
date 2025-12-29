@@ -1,108 +1,70 @@
-<!-- ===================== -->
-<!--      HERO SECTION     -->
-<!-- ===================== -->
+<div align="center">
+  <h1>Sufiyan Khan</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+MERN+Applications;Problem+Solver+%26+Open+Source+Contributor" alt="Typing SVG" />
+  </p>
+</div>
 
-<h1 align="center">Sufiyan Khan</h1>
-<h3 align="center">Full-Stack Developer · Building clean, scalable web products</h3>
+---
 
-<p align="center">
-  <a href="https://github.com/suffun">
-    <img src="https://img.shields.io/github/followers/suffun?label=Followers&style=flat-square" />
+### 🚀 About Me
+- 🔭 Currently engineering an **Internship Management System** to streamline candidate tracking and evaluations.
+- 💻 Passionate about building robust backends with **Node.js** and high-performance frontends with **React**.
+- 🛠️ Focused on writing clean, maintainable code and optimizing database performance.
+- 💬 Ask me about **JavaScript, API Design, or React State Management**.
+
+---
+
+### 💻 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css,git,postman,vercel&perline=12" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+### 🏆 Featured Projects
 
-- Full-Stack Developer focused on **React, Node.js, and modern web architecture**
-- I enjoy building **real-world products**, not demos
-- Strong believer in **clean code, performance, and UX**
-- Currently improving **system design & backend scalability**
+#### 📂 [Internship Management System](https://github.com/suffun/Internship)
+*A comprehensive dashboard for managing intern lifecycles and performance metrics.*
+- **Tech Stack:** React, Node.js, Express, PostgreSQL, CSS3.
+- **Key Feature:** Automated CSV data importing and real-time performance visualization.
 
----
+#### 📂 [TripoSpace](https://github.com/suffun/TripoSpace)
+*A modern travel and booking platform designed for a seamless user experience.*
+- **Tech Stack:** MongoDB, Express, React, Node.js.
+- **Key Feature:** Advanced filtering and secure booking workflows.
 
-## 🛠 Tech Stack
-
-**Frontend**
-- React · JavaScript · HTML5 · CSS3 · Tailwind CSS · Material UI
-
-**Backend**
-- Node.js · Express.js · REST APIs · JWT Authentication
-
-**Database**
-- MongoDB · Mongoose
-
-**Tools & Workflow**
-- Git · GitHub · Postman · VS Code · npm
+#### 📂 [Zerodha-Clone](https://github.com/suffun/Zerodha-Clone-)
+*A full-stack replica of the popular trading platform focusing on UI precision.*
+- **Tech Stack:** React, Node.js, MongoDB.
+- **Key Feature:** High-fidelity UI components and responsive data tables.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Zerodha Clone (Dashboard + Core Flows)
-A functional trading platform clone with a real dashboard experience.
-
-**Highlights**
-- Interactive dashboard UI  
-- Modular React components  
-- Clean state management  
-
-**Tech:** React · Material UI · Node.js · MongoDB  
-
----
-
-### 🔹 Full-Stack Auth System
-Secure authentication system built from scratch.
-
-**Highlights**
-- JWT-based authentication  
-- Protected routes & role handling  
-- Clean API architecture  
-
-**Tech:** React · Express · Node.js · MongoDB  
-
----
-
-### 🔹 Intern Management System
-Backend-focused project for managing interns, projects, and evaluations.
-
-**Highlights**
-- Relational data modeling  
-- RESTful APIs  
-- Scalable backend structure  
-
-**Tech:** Node.js · Express · PostgreSQL / MongoDB  
-
----
-
-## 📊 GitHub Stats
-
+### 📊 Performance Metrics
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="49%" alt="Streak Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suffun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Stats Card" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="130"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suffun&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Languages Card" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/suffun  
-- LinkedIn: https://www.linkedin.com/in/sufiyan-khan  
-- Email: sufiyan.dev@gmail.com  
-
----
-
+### 📱 Connect With Me
 <p align="center">
-  <i>Building. Learning. Shipping.</i>
+  <a href="https://twitter.com/Sufiyan_Dev" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suffun.suffun" alt="Visitor Badge" />
+</div>
