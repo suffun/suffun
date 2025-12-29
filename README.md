@@ -5,31 +5,27 @@
 
 ---
 
-### 💻 Tech Stack (Animated)
+### 💻 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css,git,postman,vercel&perline=12" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css,git,postman,vercel&perline=12" alt="My Skills" />
 </p>
 
 ---
 
-### 📊 Skills Progress
-- **Frontend Development** ![Frontend](https://geps.dev/progress/90)
-- **Backend Development** ![Backend](https://geps.dev/progress/80)
-
----
-
-### 🔥 Activity & Streak
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" alt="Streak Card" />
 </p>
 
 ---
 
 ### 📱 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/Sufiyan_Dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<a href="https://twitter.com/Sufiyan_Dev" target="blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sufiyan_Dev" />
+</a>
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suffun.suffun" alt="Visitors" />
+</div>
