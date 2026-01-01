@@ -23,13 +23,6 @@
 
 ---
 
-### 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" width="49%" alt="Streak Card" />
-  
-
----
-
 
 ### 📱 Connect With Me
 
