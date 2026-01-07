@@ -23,11 +23,14 @@
 
 ---
 
-### 🔥 My GitHub Streak
+### 📈 My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan-Khan&theme=tokyonight&hide_border=true&stroke=7AA2F7&ring=7AA2F7&fire=E06C75" alt="Sufiyan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Khan&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=9ece6a" alt="Sufiyan's Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan-Khan&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7" alt="Top Languages" />
+</p>
 
 ### 📱 Connect With Me
 
