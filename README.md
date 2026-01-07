@@ -23,13 +23,11 @@
 
 ---
 
-### 📈 My GitHub Activity
+### 📊 My GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan-Khan&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=9ece6a" alt="Sufiyan's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan-Khan&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-7AA2F7?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/Sufiyan-Khan?style=for-the-badge&color=7AA2F7&label=Commits" />
+  <img src="https://img.shields.io/github/last-commit/Sufiyan-Khan/Sufiyan-Khan?style=for-the-badge&color=7AA2F7&label=Last%20Active" />
 </p>
 
 ### 📱 Connect With Me
