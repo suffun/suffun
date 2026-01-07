@@ -23,6 +23,11 @@
 
 ---
 
+### 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan-Khan&theme=tokyonight&hide_border=true&stroke=7AA2F7&ring=7AA2F7&fire=E06C75" alt="Sufiyan's GitHub Streak" />
+</p>
+
 
 ### 📱 Connect With Me
 
