@@ -22,13 +22,10 @@
 </p>
 
 ---
-
-### 📊 My GitHub Metrics
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-7AA2F7?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/Sufiyan-Khan?style=for-the-badge&color=7AA2F7&label=Commits" />
-  <img src="https://img.shields.io/github/last-commit/Sufiyan-Khan/Sufiyan-Khan?style=for-the-badge&color=7AA2F7&label=Last%20Active" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=suffunE&theme=default&hide_border=true" />
+</picture>
 
 ### 📱 Connect With Me
 
