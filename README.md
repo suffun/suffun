@@ -22,10 +22,6 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suffun&theme=tokyonight&hide_border=true" />
-  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=suffunE&theme=default&hide_border=true" />
-</picture>
 
 ### 📱 Connect With Me
 
